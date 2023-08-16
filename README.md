@@ -10,6 +10,9 @@ Sou um profissional de tecnologia de informação, com experiência em suporte t
 
 ### Hard Skills:
 
+![LINUX](https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
 ![TypeScipt](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
